@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\hands-on-code\\ProjetoAulas\\ProjetoAulas.csproj": {}
+    "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\Hands-On-Code\\ProjetoAulas\\ProjetoAulas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\hands-on-code\\ProjetoAulas\\ProjetoAulas.csproj": {
+    "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\Hands-On-Code\\ProjetoAulas\\ProjetoAulas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\hands-on-code\\ProjetoAulas\\ProjetoAulas.csproj",
+        "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\Hands-On-Code\\ProjetoAulas\\ProjetoAulas.csproj",
         "projectName": "ProjetoAulas",
-        "projectPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\hands-on-code\\ProjetoAulas\\ProjetoAulas.csproj",
+        "projectPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\Hands-On-Code\\ProjetoAulas\\ProjetoAulas.csproj",
         "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\hands-on-code\\ProjetoAulas\\obj\\",
+        "outputPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\Hands-On-Code\\ProjetoAulas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config"
