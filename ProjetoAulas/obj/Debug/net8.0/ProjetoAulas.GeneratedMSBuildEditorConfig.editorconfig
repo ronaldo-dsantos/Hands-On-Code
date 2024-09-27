@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoAulas
-build_property.ProjectDir = C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\ProjetoAulas\
+build_property.ProjectDir = C:\Users\ronal\OneDrive\Documentos\desenvolvedor.io\01-fundamentos-do-csharp\hands-on-code\ProjetoAulas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

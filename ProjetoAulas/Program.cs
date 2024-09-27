@@ -12,16 +12,16 @@ decimal valorDecimal = 200.99m; // Por padrão o C# entende valores como sendo d
 Console.WriteLine(valorDecimal);
 
 float valorFloat = 200.99f; // Por padrão o C# entende valores como sendo do tipo double, para informar que se trata de um decimal é necessário adicionar f logo após o valor
-Console.WriteLine(valorFloat); 
+Console.WriteLine(valorFloat);
 
 char flag = 'y'; // Quando se tratar de um único caracter ele deve estar entre aspas simples ('')
 Console.WriteLine(flag);
 
 bool ativo = true; // Retorno de um booleano pode ser true ou false
-Console.WriteLine(ativo); 
+Console.WriteLine(ativo);
 
 var idadeNova = 39; // Tipo genérico, assume automáticamente o tipo do valor atribuído a variável
-Console.WriteLine(idadeNova); 
+Console.WriteLine(idadeNova);
 
 // ***** Constantes *****
 const string descricao = "Curso CSHARP"; // Não permite alteração do valor atribuído posteriormente
@@ -85,12 +85,6 @@ Console.WriteLine(not);
 var funcionario = false;
 var ternario = funcionario ? "Funcionário Ativo" : "Funcionário Inativo";
 Console.WriteLine(ternario);
-
-
-
-
-
-
 
 
 

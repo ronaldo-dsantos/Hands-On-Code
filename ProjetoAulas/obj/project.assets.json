@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\ProjetoAulas\\ProjetoAulas.csproj",
+      "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\hands-on-code\\ProjetoAulas\\ProjetoAulas.csproj",
       "projectName": "ProjetoAulas",
-      "projectPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\ProjetoAulas\\ProjetoAulas.csproj",
+      "projectPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\hands-on-code\\ProjetoAulas\\ProjetoAulas.csproj",
       "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\ProjetoAulas\\obj\\",
+      "outputPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\desenvolvedor.io\\01-fundamentos-do-csharp\\hands-on-code\\ProjetoAulas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config"
